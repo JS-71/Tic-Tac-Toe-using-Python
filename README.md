@@ -15,6 +15,9 @@ This is a simple implementation of the classic Tic-tac-toe game in Python. Tic-t
 **How to Play**
 
 Clone this repository to your local machine.
+
 Navigate to the directory containing the files.
+
 Run the tic_tac_toe.py file using Python.
+
 Follow the prompts to make your moves and enjoy the game!
