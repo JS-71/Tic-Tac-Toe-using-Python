@@ -3,21 +3,21 @@ This is a simple implementation of the classic Tic-tac-toe game in Python. Tic-t
 
 **Features**
 
--**Interactive Gameplay**: Play against a friend in a command-line interface.
+- **Interactive Gameplay**: Play against a friend in a command-line interface.
 
--**Simple Interface**: Easy-to-understand interface for seamless gameplay experience.
+- **Simple Interface**: Easy-to-understand interface for seamless gameplay experience.
 
--**Winning Logic**: Automatically detects winning conditions and declares the winner.
+- **Winning Logic**: Automatically detects winning conditions and declares the winner.
 
--**Error Handling**: Includes error handling for invalid inputs to ensure smooth gameplay.
+- **Error Handling**: Includes error handling for invalid inputs to ensure smooth gameplay.
 
 
 **How to Play**
 
--Clone this repository to your local machine.
+- Clone this repository to your local machine.
 
--Navigate to the directory containing the files.
+- Navigate to the directory containing the files.
 
--Run the tic_tac_toe.py file using Python.
+- Run the tic_tac_toe.py file using Python.
 
--Follow the prompts to make your moves and enjoy the game!
+- Follow the prompts to make your moves and enjoy the game!
